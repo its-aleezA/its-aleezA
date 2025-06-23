@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋 I'm Aleeza!
 
-<!--
-**its-aleezA/its-aleezA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at NUST  
+🔬 Robotics • Embedded Systems • AI/ML Curious  
+🛠 Currently building cool things with C++, Verilog, Python & Arduino
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What you'll find here:
+- 🔧 Hardware + Software projects (FPGA, microcontrollers, line-following robots, and more)
+- 🤖 AI/ML learning projects as I explore data science
+- 💡 Random experiments and personal builds
+
+---
+
+## 📚 Current Focus
+- Machine Learning (Educative.io + DataCamp)
+- Embedded system design (Arduino, FPGA, PIC)
+- Exploring computer vision and control systems
+
+---
+
+## 🎯 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/aleeza-rizwan)  
+- [GitHub](https://github.com/its-aleezA)  
+- Always open for collaboration & learning!
+
+---
+
+> *"Always building. Always learning. Occasionally debugging for hours because I missed a semicolon."* 😅
+
