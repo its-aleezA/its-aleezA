@@ -14,7 +14,7 @@
 ---
 
 ## 📚 Current Focus
-- Machine Learning (Educative.io + DataCamp)
+- Machine Learning (Udemy + DataCamp)
 - Embedded system design (Arduino, FPGA, PIC)
 - Exploring computer vision and control systems
 
