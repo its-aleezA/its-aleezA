@@ -1,10 +1,9 @@
 <h1 align="center">Hi there 👋 I'm Aleeza!</h1>
-<h3 align="center">
-🎓 Computer Engineering student at NUST  
-  
-🔬 Robotics • Embedded Systems • AI/ML Curious
-🛠 Currently building cool things with C++, Verilog, Python & Arduino
-</h3>
+<div align="center">
+  <h3>🎓 Computer Engineering student at NUST</h3>
+  <h3>🔬 Robotics • Embedded Systems • AI/ML Curious</h3>
+  <h3>🛠 Currently building cool things with C++, Verilog, Python & Arduino</h3>
+</div>
 
 ---
 
