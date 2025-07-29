@@ -3,16 +3,15 @@
 🎓 Computer Engineering student at NUST  
   
 🔬 Robotics • Embedded Systems • AI/ML Curious
-
 🛠 Currently building cool things with C++, Verilog, Python & Arduino
 </h3>
 
 ---
 
 ### 🚀 What you'll find here:
-- 🔧 Hardware + Software projects (FPGA, microcontrollers, line-following robots, and more)
 - 🤖 AI/ML learning projects as I explore data science
 - 💡 Random experiments and personal builds
+- 🔧 Hardware + Software projects (FPGA, microcontrollers, line-following robots, and more)
 
 ---
 
