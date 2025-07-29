@@ -26,19 +26,19 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=its-aleezA&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=its-aleezA&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=its-aleezA&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-<h3 align="left">🏆 GitHub Trophies</h3>
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=its-aleezA&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-<h3 align="left">🔝 Top Contributed Repo</h3>
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=its-aleezA&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
@@ -46,10 +46,8 @@
 <h3 align="left">🎯 Let's Connect!</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/aleeza rizwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleeza rizwan" height="30" width="40" /></a>
-  
+<a href="https://linkedin.com/in/aleeza rizwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleeza rizwan" height="30" width="40" /></a>  
 <a href="https://kaggle.com/aleeza rizwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aleeza rizwan" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/its_aleeza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its_aleeza" height="30" width="40" /></a>
 </p>
 
