@@ -9,14 +9,14 @@
 
 ---
 
-<h3 align="left">🚀 What you'll find here:</h3>
+### 🚀 What you'll find here:
 - 🔧 Hardware + Software projects (FPGA, microcontrollers, line-following robots, and more)
 - 🤖 AI/ML learning projects as I explore data science
 - 💡 Random experiments and personal builds
 
 ---
 
-<h3 align="left">📚 Current Focus:</h3>
+### 📚 Current Focus:
 - Applying Machine Learning through differenthands-on projects
 - Exploring computer vision and control systems
 - Building fun and interactive applications to solve real-world projects
@@ -25,7 +25,7 @@
 
 <h3 align="left">💻 My Tech Stack:</h3>
 <p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 50px;">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 5000px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 50px;">
@@ -65,7 +65,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=its-aleezA&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=its-aleezA&theme=shadow_blue&hide_border=false)<br/>
