@@ -17,7 +17,7 @@
 ### 📚 Current Focus:
 - Applying Machine Learning through differenthands-on projects
 - Exploring computer vision and control systems
-- Building fun and interactive applications to solve real-world projects
+- Building fun and interactive applications to solve real-world problems
 
 ---
 
