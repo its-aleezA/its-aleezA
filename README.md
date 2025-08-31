@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=abc&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;I'm+Aleeza!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
-<h1 align="center">Hi there 👋 I'm Aleeza!</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=abc&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;My+name's+Aleeza!+😊;👾+Welcome+to+my+GitHub+profile!+👾)](https://git.io/typing-svg)
+
 <div align="center">
   <h3>🎓 Computer Engineering student at NUST</h3>
   <h3>🔬 Robotics • Embedded Systems • AI/ML Curious</h3>
