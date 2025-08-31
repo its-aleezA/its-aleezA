@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+I'm+Aleeza!)](https://git.io/typing-svg)
 <h1 align="center">Hi there 👋 I'm Aleeza!</h1>
 <div align="center">
   <h3>🎓 Computer Engineering student at NUST</h3>
